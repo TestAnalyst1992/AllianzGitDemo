@@ -7,3 +7,6 @@ Name of Countries
 
 Allianz User2 Cloned Prjct from Git Repo\
 User 2 made chenges and pushed changes to master branch
+
+Allianz User1 created new branch and switched to develop branch
+User1 added new line and pushed into develop branch
