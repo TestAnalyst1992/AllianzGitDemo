@@ -21,3 +21,7 @@ User2 added new line from develop branch and pushed into develop branch
 master branch edits: ##########
 develop branch edits : ####
 
+
+######
+develop branch user2 edits ################ and push to develop branch
+
