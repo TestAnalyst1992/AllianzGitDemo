@@ -24,4 +24,6 @@ develop branch edits : ####
 
 ######
 develop branch user2 edits ################ and push to develop branch
+master branch user1 edits ################### and push to develop branch
+$$$$$$$$$$$
 
